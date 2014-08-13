@@ -1,5 +1,5 @@
 (ns glasgow-life-facilities-2.pipeline
-  (:require [grafter.tabular :refer [derive-column mapc swap drop-rows _]]
+  (:require [grafter.tabular :refer [column-names derive-column mapc swap drop-rows _]]
             [grafter.tabular.common :refer [open-all-datasets make-dataset move-first-row-to-header]]
             [glasgow-life-facilities-2.prefixers :refer :all]))
 
@@ -8,7 +8,8 @@
     (make-dataset header ds)))
 
 (defn pipeline [path]
-  (-> (open-all-datasets path
-                         :make-dataset-fn
-                         (partial make-dataset [:foo :bar :baz]))))
-
+  (-> (open-all-datasets path)
+      first
+      ;(make-dataset [:foo :bar :baz])
+      :column-names
+      ))
