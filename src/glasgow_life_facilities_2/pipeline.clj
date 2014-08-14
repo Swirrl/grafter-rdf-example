@@ -12,7 +12,6 @@
       (derive-column "facility-type" ["facility-description"] uriify-type)
       (derive-column "name-slug" ["facility-name"] slugify)
       (mapc {"facility-description" uriify-facility
-             "facility-name" _
              "monthly-attendence" parse-attendance
              "month" convert-month
              "year" parse-year
