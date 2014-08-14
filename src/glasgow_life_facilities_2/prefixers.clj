@@ -49,6 +49,12 @@
 (defn date-slug [date]
   (str (.getYear date) "-" (.getMonthOfYear date) "/"))
 
+(defn slugify [string]
+  (-> string
+      trim
+      (st/lower-case)
+      (st/replace " " "-")))
+
 (def slugify-facility
   (js-fn "function(name) {
               var lower = name.toLowerCase();
