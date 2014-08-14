@@ -4,10 +4,6 @@
             [grafter.parse :refer [date-time]]
             [glasgow-life-facilities-2.prefixers :refer :all]))
 
-(defn replace-header [header]
-  (fn [ds]
-    (make-dataset header ds)))
-
 (defn pipeline [path]
   (-> (open-all-datasets path)
       first
