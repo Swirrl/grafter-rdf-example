@@ -28,12 +28,6 @@
       (derive-column "postcode-uri" ["postcode"] uriify-pcode)
       (swap "month" "year")
       (derive-column "date" ["year" "month"] date-time)
-;;       (derive-column "date" ["year" "month"] date-time)
-;;       (derive-column "date" ["year" "month"] date-time)
-      ))
-
-
-
-
-
-
+      (derive-column "prefix-date" ["date"] prefix-monthly-attendance)
+      (derive-column "type-name" ["facility-type" "name-slug"] slug-combine)
+      (derive-column "observation-uri" ["prefix-date" "type-name"] str)))
