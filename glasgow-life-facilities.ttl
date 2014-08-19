@@ -1,0 +1,2080 @@
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/riverside-museum> <http://www.w3.org/2000/01/rdf-schema#label> "Riverside Museum"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/riverside/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10166 .
+
+_:bnode10166 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "100 Pointhouse Place"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "100 Pointhouse Place"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G3 8RS"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G38RS> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/riverside-museum> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/riverside-museum> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "48521"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/kelvingrove-art-gallery-and-museum> <http://www.w3.org/2000/01/rdf-schema#label> "Kelvingrove Art Gallery and Museum "@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/kelvingrove/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10167 .
+
+_:bnode10167 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Argyle Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Argyle Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G3 8AG"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G38AG> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/kelvingrove-art-gallery-and-museum> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/kelvingrove-art-gallery-and-museum> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "94996"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/the-burrell-collection> <http://www.w3.org/2000/01/rdf-schema#label> "The Burrell Collection"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/burrell-collection/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10168 .
+
+_:bnode10168 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2060 Pollokshaws Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2060 Pollokshaws Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G43 1AT"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G431AT> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/the-burrell-collection> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/the-burrell-collection> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "17852"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/st-mungo-museum-of-religious-life-&-art> <http://www.w3.org/2000/01/rdf-schema#label> "St Mungo Museum of Religious Life & Art"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/st-mungos/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10169 .
+
+_:bnode10169 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2 Castle Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2 Castle Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G4 0RH"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G40RH> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/st-mungo-museum-of-religious-life-&-art> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/st-mungo-museum-of-religious-life-&-art> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "11401"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/people's-palace> <http://www.w3.org/2000/01/rdf-schema#label> "People's Palace"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/peoples-palace/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10170 .
+
+_:bnode10170 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Green"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Glasgow Green"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G40 1AT"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G401AT> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/people's-palace> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/people's-palace> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "26268"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/gallery-of-modern-art> <http://www.w3.org/2000/01/rdf-schema#label> "Gallery of Modern Art"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/GoMA/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10171 .
+
+_:bnode10171 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Royal Exchange Square"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Royal Exchange Square"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G1 3AH"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G13AH> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/gallery-of-modern-art> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/gallery-of-modern-art> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "49286"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/scotland-street-school-museum> <http://www.w3.org/2000/01/rdf-schema#label> "Scotland Street School Museum"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/scotland-street/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10172 .
+
+_:bnode10172 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "225 Scotland Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "225 Scotland Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G5 8QB"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G58QB> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/scotland-street-school-museum> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/scotland-street-school-museum> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5186"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/provand's-lordship> <http://www.w3.org/2000/01/rdf-schema#label> "Provand's Lordship"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/provands-lordship/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10173 .
+
+_:bnode10173 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "3 Castle Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "3 Castle Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G4 0RB"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G40RB> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/provand's-lordship> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/provand's-lordship> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6450"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/museums/glasgow-museums-resource-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Museums Resource Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/museums/GMRC/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10174 .
+
+_:bnode10174 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "200 Woodhead Road, South Nitshill Industrial Estate"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "200 Woodhead Road, South Nitshill Industrial Estate"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G53 7NN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G537NN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/museums/glasgow-museums-resource-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/museums/glasgow-museums-resource-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1271"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/arts-centres/tramway> <http://www.w3.org/2000/01/rdf-schema#label> "Tramway"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.tramway.org/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10175 .
+
+_:bnode10175 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "25 Albert Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "25 Albert Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G41 2PE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G412PE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/arts-centres/tramway> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/arts-centres/tramway> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12980"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/arts-centres/trongate-103> <http://www.w3.org/2000/01/rdf-schema#label> "Trongate 103"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.trongate103.com/> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10176 .
+
+_:bnode10176 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "103 Trongate"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "103 Trongate"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G1 5HD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G15HD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/arts-centres/trongate-103> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/arts-centres/trongate-103> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "14601"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/balgrayhill-tenants-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Balgrayhill Tenants Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/balgrayhill-th/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10177 .
+
+_:bnode10177 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "139 Balgrayhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "139 Balgrayhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 3AE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G213AE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/balgrayhill-tenants-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/balgrayhill-tenants-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "549"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/barlanark-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Barlanark Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/barlanark-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10178 .
+
+_:bnode10178 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "33 Burnmouth Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "33 Burnmouth Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G33 4RZ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G334RZ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/barlanark-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/barlanark-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5534"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/barmulloch-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Barmulloch Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/barmulloch-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10179 .
+
+_:bnode10179 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "46 Wallacewell Quadrant"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "46 Wallacewell Quadrant"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 3PX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G213PX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/barmulloch-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/barmulloch-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7169"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/bellcraig-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Bellcraig Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/bellcraig-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10180 .
+
+_:bnode10180 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Gorstan Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Gorstan Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G23 5QA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G235QA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/bellcraig-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/bellcraig-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3006"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/bluevale-neighbourhood-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Bluevale Neighbourhood Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/bluevale-neighbourhood-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10181 .
+
+_:bnode10181 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "30 Abernethy Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "30 Abernethy Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G31 3SX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G313SX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/bluevale-neighbourhood-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/bluevale-neighbourhood-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1322"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/castlemilk-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Castlemilk Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/castlemilk-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10182 .
+
+_:bnode10182 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "121 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "121 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G45 9UG"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G459UG> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/castlemilk-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/castlemilk-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7151"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/couper-institute> <http://www.w3.org/2000/01/rdf-schema#label> "Couper Institute"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Couper-Institute/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10183 .
+
+_:bnode10183 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "86 Clarkston Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "86 Clarkston Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G44 3DA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G443DA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/couper-institute> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/couper-institute> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2574"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/cranhill-beacon> <http://www.w3.org/2000/01/rdf-schema#label> "Cranhill Beacon"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10184 .
+
+_:bnode10184 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "200 Bellrock Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "200 Bellrock Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G33 3LZ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G333LZ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/cranhill-beacon> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/cranhill-beacon> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1592"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/darnley-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Darnley Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Darnley-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10185 .
+
+_:bnode10185 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Glen Livet Place"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Glen Livet Place"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G53 7LA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G537LA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/darnley-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/darnley-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3216"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/drumchapel-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Drumchapel Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/drumchapel-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10186 .
+
+_:bnode10186 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "320 Kinfauns Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "320 Kinfauns Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G15 7HA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G157HA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/drumchapel-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/drumchapel-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5259"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/garrowhill-community-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Garrowhill Community Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/garrowhill-community-hall/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10187 .
+
+_:bnode10187 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "31/35 Maxwell Drive, Garrowhill"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "31/35 Maxwell Drive, Garrowhill"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G69 6LU"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G696LU> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/garrowhill-community-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/garrowhill-community-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1817"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/geoff-shaw-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Geoff Shaw Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/geoff-shaw-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10188 .
+
+_:bnode10188 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "25 Kerrylamont Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "25 Kerrylamont Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 0DN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G420DN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/geoff-shaw-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/geoff-shaw-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4319"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/govanhill-neighbourhood-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Govanhill Neighbourhood Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/govanhill-neighbourhood-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10189 .
+
+_:bnode10189 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "6/8 Daisy Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "6/8 Daisy Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 8JL"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G428JL> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/govanhill-neighbourhood-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/govanhill-neighbourhood-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9023"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/knightswood-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Knightswood Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/knightswood-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10190 .
+
+_:bnode10190 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "201 Alderman Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "201 Alderman Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G13 3DD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G133DD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/knightswood-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/knightswood-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5818"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/langside-halls> <http://www.w3.org/2000/01/rdf-schema#label> "Langside Halls"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Langside-Hall/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10191 .
+
+_:bnode10191 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "5 Langside Ave"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "5 Langside Ave"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G41 2QR"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G412QR> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/langside-halls> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/langside-halls> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4221"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/linn-park> <http://www.w3.org/2000/01/rdf-schema#label> "Linn Park"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10192 .
+
+_:bnode10192 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "145 Netherlee Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "145 Netherlee Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G44 3ST"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G443ST> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/linn-park> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/linn-park> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1102"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/maryhill-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Maryhill Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/maryhill-cc/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10193 .
+
+_:bnode10193 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "35 Avenuepark Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "35 Avenuepark Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G20 8TS"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G208TS> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/maryhill-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/maryhill-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3361"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/molendinar-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Molendinar Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Molendinar-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10194 .
+
+_:bnode10194 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1210 Royston Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1210 Royston Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G33 1HE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G331HE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/molendinar-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/molendinar-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3426"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/netherton-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Netherton Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/netherton-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10195 .
+
+_:bnode10195 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "358 Netherton Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "358 Netherton Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G13 1AX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G131AX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/netherton-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/netherton-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3716"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/partick-burgh-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Partick Burgh Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Partick-Burgh-Hall/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10196 .
+
+_:bnode10196 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "3/9a Burgh Hall Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "3/9a Burgh Hall Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G11 5LN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G115LN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/partick-burgh-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/partick-burgh-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6767"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/penilee-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Penilee Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Penilee-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10197 .
+
+_:bnode10197 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Gleddoch Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Gleddoch Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G52 4BD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G524BD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/penilee-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/penilee-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7882"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/pollok-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Pollok Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Pollok-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10198 .
+
+_:bnode10198 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "134 Langton Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "134 Langton Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G53 5DP"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G535DP> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/pollok-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/pollok-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5639"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/pollokshields-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Pollokshields Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/pollokshields-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10199 .
+
+_:bnode10199 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "15 Kenmure Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "15 Kenmure Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G41 2NT"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G412NT> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/pollokshields-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/pollokshields-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2201"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/possilpoint-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Possilpoint Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Possilpoint-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10200 .
+
+_:bnode10200 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "130 Denmark Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "130 Denmark Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G22 5LQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G225LQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/possilpoint-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/possilpoint-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2547"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/roystonhill-recreational-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Roystonhill Recreational Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Roystonhill-Recreational-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10201 .
+
+_:bnode10201 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "15 Forrestfield Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "15 Forrestfield Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 2HG"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G212HG> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/roystonhill-recreational-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/roystonhill-recreational-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "998"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/ruchazie-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Ruchazie Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Ruchazie-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10202 .
+
+_:bnode10202 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "441 Gartloch Road Ruchazie"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "441 Gartloch Road Ruchazie"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G33 3TJ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G333TJ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/ruchazie-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/ruchazie-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1104"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/ruchill-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Ruchill Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Ruchill-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10203 .
+
+_:bnode10203 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "671 Bilsland Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "671 Bilsland Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G20 9NF"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G209NF> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/ruchill-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/ruchill-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2616"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/shettleston-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Shettleston Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Shettleston-Community-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10204 .
+
+_:bnode10204 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "54 Amulree Street, Shettleston"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "54 Amulree Street, Shettleston"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G32 7UT"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G327UT> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/shettleston-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/shettleston-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1511"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/st-francis-community-centre> <http://www.w3.org/2000/01/rdf-schema#label> "St Francis Community Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/st-francis-community-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10205 .
+
+_:bnode10205 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "405 Cumberland Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "405 Cumberland Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G5 0SE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G50SE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/st-francis-community-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/st-francis-community-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2824"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/tollcross-youth-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Tollcross Youth Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Tollcross-Youth-Centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10206 .
+
+_:bnode10206 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1120 Tollcross Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1120 Tollcross Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G32 8HE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G328HE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/tollcross-youth-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/tollcross-youth-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "897"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/woodside-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Woodside Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/community-facilities/Woodside-Hall/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10207 .
+
+_:bnode10207 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "36 Glenfarg Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "36 Glenfarg Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G20 7QF"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G207QF> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/community-facilities/woodside-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/community-facilities/woodside-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5941"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/anniesland-library> <http://www.w3.org/2000/01/rdf-schema#label> "Anniesland Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/anniesland-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10208 .
+
+_:bnode10208 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "833 Crow Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "833 Crow Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G13 1LE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G131LE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/anniesland-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/anniesland-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9802"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/baillieston-library> <http://www.w3.org/2000/01/rdf-schema#label> "Baillieston Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/baillieston-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10209 .
+
+_:bnode10209 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "141 Main Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "141 Main Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G69 6AA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G696AA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/baillieston-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/baillieston-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4690"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/barmulloch-library> <http://www.w3.org/2000/01/rdf-schema#label> "Barmulloch Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/barmulloch-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10210 .
+
+_:bnode10210 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "46 Wallacewell Quadrant"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "46 Wallacewell Quadrant"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 3PX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G213PX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/barmulloch-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/barmulloch-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2785"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/cardonald-library> <http://www.w3.org/2000/01/rdf-schema#label> "Cardonald Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/cardonald-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10211 .
+
+_:bnode10211 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1113 Mosspark Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1113 Mosspark Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G52 3BU"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G523BU> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/cardonald-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/cardonald-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12781"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/castlemilk-library> <http://www.w3.org/2000/01/rdf-schema#label> "Castlemilk Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/castlemilk-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10212 .
+
+_:bnode10212 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "100 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "100 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G45 9TN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G459TN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/castlemilk-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/castlemilk-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7333"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/couper-institute> <http://www.w3.org/2000/01/rdf-schema#label> "Couper Institute"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/couper-institute/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10213 .
+
+_:bnode10213 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "84 Clarkston Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "84 Clarkston Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G44 3DA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G443DA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/couper-institute> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/couper-institute> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6984"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/dennistoun-library> <http://www.w3.org/2000/01/rdf-schema#label> "Dennistoun Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/dennistoun-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10214 .
+
+_:bnode10214 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2A Craigpark"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2A Craigpark"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G31 2NA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G312NA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/dennistoun-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/dennistoun-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5883"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/drumchapel-library> <http://www.w3.org/2000/01/rdf-schema#label> "Drumchapel Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/drumchapel-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10215 .
+
+_:bnode10215 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "65 Hecla Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "65 Hecla Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G15 8LX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G158LX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/drumchapel-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/drumchapel-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4415"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/elder-park-library> <http://www.w3.org/2000/01/rdf-schema#label> "Elder Park Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/elder-park-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10216 .
+
+_:bnode10216 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "228A Langlands Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "228A Langlands Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G51 3TZ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G513TZ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/elder-park-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/elder-park-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5960"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/gorbals-library> <http://www.w3.org/2000/01/rdf-schema#label> "Gorbals Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/gorbals-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10217 .
+
+_:bnode10217 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "180 Crown Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "180 Crown Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G5 9XD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G59XD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/gorbals-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/gorbals-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12741"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/govanhill-library> <http://www.w3.org/2000/01/rdf-schema#label> "Govanhill Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/govanhill-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10218 .
+
+_:bnode10218 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "170 Langside Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "170 Langside Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 7JU"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G427JU> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/govanhill-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/govanhill-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9567"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/hillhead-library> <http://www.w3.org/2000/01/rdf-schema#label> "Hillhead Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/hillhead-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10219 .
+
+_:bnode10219 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "348 Byres Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "348 Byres Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G12 8AP"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G128AP> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/hillhead-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/hillhead-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "33591"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/ibrox-library> <http://www.w3.org/2000/01/rdf-schema#label> "Ibrox Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/ibrox-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10220 .
+
+_:bnode10220 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1/5 Midlock Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1/5 Midlock Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G51 1SL"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G511SL> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/ibrox-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/ibrox-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "10532"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/knightswood-library> <http://www.w3.org/2000/01/rdf-schema#label> "Knightswood Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/knightswood-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10221 .
+
+_:bnode10221 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "27 Dunterlie Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "27 Dunterlie Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G13 3BB"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G133BB> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/knightswood-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/knightswood-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/langside-library> <http://www.w3.org/2000/01/rdf-schema#label> "Langside Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/langside-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10222 .
+
+_:bnode10222 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2 Sinclair Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2 Sinclair Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 9QE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G429QE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/langside-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/langside-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12194"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/library-@-goma> <http://www.w3.org/2000/01/rdf-schema#label> "Library @ GoMA"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/library-at-goma/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10223 .
+
+_:bnode10223 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Royal Exchange Square"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Royal Exchange Square"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G1 3AH"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G13AH> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/library-@-goma> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/library-@-goma> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "20355"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/library-at-the-bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Library at The Bridge"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/library-at-the-bridge/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10224 .
+
+_:bnode10224 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1000 Westerhouse Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1000 Westerhouse Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G34 9JW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G349JW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/library-at-the-bridge> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/library-at-the-bridge> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "47811"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/maryhill-library> <http://www.w3.org/2000/01/rdf-schema#label> "Maryhill Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/maryhill-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10225 .
+
+_:bnode10225 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1508 Maryhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1508 Maryhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G20 9AD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G209AD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/maryhill-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/maryhill-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3996"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/milton-library> <http://www.w3.org/2000/01/rdf-schema#label> "Milton Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/milton-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10226 .
+
+_:bnode10226 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "204 Liddesdale Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "204 Liddesdale Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G22 7QR"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G227QR> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/milton-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/milton-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4191"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/olympia> <http://www.w3.org/2000/01/rdf-schema#label> "Olympia"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10227 .
+
+_:bnode10227 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2/16 Orr Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2/16 Orr Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G40 2QH"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G402QH> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/olympia> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/olympia> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9100"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/parkhead-library> <http://www.w3.org/2000/01/rdf-schema#label> "Parkhead Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/parkhead-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10228 .
+
+_:bnode10228 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "64 Tollcross Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "64 Tollcross Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G31 4XA"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G314XA> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/parkhead-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/parkhead-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5437"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/partick-library> <http://www.w3.org/2000/01/rdf-schema#label> "Partick Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/partick-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10229 .
+
+_:bnode10229 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "305 Dumbarton Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "305 Dumbarton Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G11 6AB"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G116AB> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/partick-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/partick-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12414"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollok-library> <http://www.w3.org/2000/01/rdf-schema#label> "Pollok Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/pollok-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10230 .
+
+_:bnode10230 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Pollok Civic Realm, 27 Cowglen Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Pollok Civic Realm, 27 Cowglen Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G53 2EN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G532EN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/pollok-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollok-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "15707"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollokshaws-library> <http://www.w3.org/2000/01/rdf-schema#label> "Pollokshaws Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/pollokshaws-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10231 .
+
+_:bnode10231 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "50/60 Shawbridge Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "50/60 Shawbridge Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G43 1RW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G431RW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/pollokshaws-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollokshaws-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "10277"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollokshields-library> <http://www.w3.org/2000/01/rdf-schema#label> "Pollokshields Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/pollokshields-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10232 .
+
+_:bnode10232 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "30 Leslie Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "30 Leslie Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G41 2LF"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G412LF> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/pollokshields-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/pollokshields-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7306"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/possilpark-library> <http://www.w3.org/2000/01/rdf-schema#label> "Possilpark Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/possilpark-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10233 .
+
+_:bnode10233 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "127 Allander Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "127 Allander Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G22 5JJ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G225JJ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/possilpark-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/possilpark-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3993"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/riddrie-library> <http://www.w3.org/2000/01/rdf-schema#label> "Riddrie Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/riddrie-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10234 .
+
+_:bnode10234 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1020 Cumbernauld Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1020 Cumbernauld Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G33 2QS"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G332QS> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/riddrie-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/riddrie-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4379"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/royston-library> <http://www.w3.org/2000/01/rdf-schema#label> "Royston Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/royston-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10235 .
+
+_:bnode10235 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "67 Royston Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "67 Royston Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 2QW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G212QW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/royston-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/royston-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3279"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/shettleston-library> <http://www.w3.org/2000/01/rdf-schema#label> "Shettleston Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/shettleston-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10236 .
+
+_:bnode10236 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "154 Wellshot Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "154 Wellshot Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G32 7AX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G327AX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/shettleston-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/shettleston-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7048"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/springburn-library> <http://www.w3.org/2000/01/rdf-schema#label> "Springburn Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/springburn-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10237 .
+
+_:bnode10237 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Kay Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Kay Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 1JY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G211JY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/springburn-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/springburn-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "13832"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/whiteinch-library> <http://www.w3.org/2000/01/rdf-schema#label> "Whiteinch Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/whiteinch-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10238 .
+
+_:bnode10238 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "14 Victoria Park Drive South"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "14 Victoria Park Drive South"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G14 9RL"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G149RL> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/whiteinch-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/whiteinch-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4159"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/woodside-library> <http://www.w3.org/2000/01/rdf-schema#label> "Woodside Library"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/libraries/your-local-library/woodside-library/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10239 .
+
+_:bnode10239 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "343 St Georges Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "343 St Georges Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G3 6JQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G36JQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/woodside-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/woodside-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6047"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/libraries/mitchell-library> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell Library"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10240 .
+
+_:bnode10240 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "201 North Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "201 North Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G3 7DN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G37DN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/libraries/mitchell-library> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/libraries/mitchell-library> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "37744"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/music-venues/city-halls> <http://www.w3.org/2000/01/rdf-schema#label> "City Halls"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/music/our-music-venues/city-halls/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10241 .
+
+_:bnode10241 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "100 Candleriggs, Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "100 Candleriggs, Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G1 1NQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G11NQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/music-venues/city-halls> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/music-venues/city-halls> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/music-venues/glasgow-royal-concert-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Royal Concert Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/music/our-music-venues/glasgow-royal-concert-hall/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10242 .
+
+_:bnode10242 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2 Sauchiehall Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2 Sauchiehall Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G2 3NY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G23NY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/music-venues/glasgow-royal-concert-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/music-venues/glasgow-royal-concert-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-bellahouston> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Bellahouston"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/bellahouston/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10243 .
+
+_:bnode10243 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "31 Bellahouston Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "31 Bellahouston Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G52 1HH"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G521HH> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-bellahouston> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-bellahouston> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "53291"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-castlemilk> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Castlemilk"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/castlemilk/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10244 .
+
+_:bnode10244 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Dougrie Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Dougrie Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G45 9NF"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G459NF> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-castlemilk> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-castlemilk> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7973"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-castlemilk-pool> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Castlemilk Pool"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/castlemilk-pool/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10245 .
+
+_:bnode10245 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "137 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "137 Castlemilk Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G45 9UG"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G459UG> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-castlemilk-pool> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-castlemilk-pool> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9959"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-crownpoint> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Crownpoint"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/crownpoint/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10246 .
+
+_:bnode10246 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "183 Crownpoint Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "183 Crownpoint Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G40 2AL"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G402AL> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-crownpoint> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-crownpoint> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12847"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-donald-dewar> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Donald Dewar"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/donald-dewar/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10247 .
+
+_:bnode10247 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "220 Garscadden Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "220 Garscadden Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G15 8SX"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G158SX> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-donald-dewar> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-donald-dewar> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "7783"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-drumchapel-pool> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Drumchapel Pool"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/drumchapel-pool/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10248 .
+
+_:bnode10248 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "199 Drumry Road East"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "199 Drumry Road East"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G15 8NS"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G158NS> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-drumchapel-pool> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-drumchapel-pool> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5644"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-drumoyne> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Drumoyne"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/drumoyne/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10249 .
+
+_:bnode10249 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "337 Langlands Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "337 Langlands Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G51 4AW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G514AW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-drumoyne> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-drumoyne> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "16167"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-easterhouse> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Easterhouse"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/easterhouse/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10250 .
+
+_:bnode10250 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "47 Auchinlea Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "47 Auchinlea Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G34 9HQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G349HQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-easterhouse> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-easterhouse> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4521"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-easterhouse-pool> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Easterhouse Pool"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/easterhouse-pool/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10251 .
+
+_:bnode10251 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1000 Westerhouse Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1000 Westerhouse Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G34 9JW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G349JW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-easterhouse-pool> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-easterhouse-pool> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "14305"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-emirates-arena> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Emirates Arena"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/Pages/Glasgow-Club-Emirates-Arena.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10252 .
+
+_:bnode10252 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1000 London Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1000 London Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G40 3HG"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G403HG> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-emirates-arena> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-emirates-arena> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "22191"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-gorbals> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Gorbals"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/gorbals/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10253 .
+
+_:bnode10253 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "275 Ballater Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "275 Ballater Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G5 0YP"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G50YP> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-gorbals> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-gorbals> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "30308"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-haghill> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Haghill"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/haghill/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10254 .
+
+_:bnode10254 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "415 Cumbernauld Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "415 Cumbernauld Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G31 3LS"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G313LS> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-haghill> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-haghill> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4109"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-holyrood> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Holyrood"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/holyrood/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10255 .
+
+_:bnode10255 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "600 Aikenhead Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "600 Aikenhead Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 0PD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G420PD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-holyrood> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-holyrood> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "8013"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/ibrox-community-complex> <http://www.w3.org/2000/01/rdf-schema#label> "Ibrox Community Complex"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/our-facilities/football-centres/ibrox-football-centre/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10256 .
+
+_:bnode10256 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "80 Hinshellwood Drive Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "80 Hinshellwood Drive Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G51 2XP"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G512XP> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/ibrox-community-complex> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/ibrox-community-complex> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5653"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-john-paul> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club John Paul"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/john-paul/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10257 .
+
+_:bnode10257 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2 Arrochar Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2 Arrochar Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G23 5LY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G235LY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-john-paul> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-john-paul> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6182"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-kelvin-hall> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Kelvin Hall"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/kelvin-hall/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10258 .
+
+_:bnode10258 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1445 Argyle Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1445 Argyle Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G3 8AW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G38AW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-kelvin-hall> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-kelvin-hall> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "60"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-maryhill> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Maryhill"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/maryhill/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10259 .
+
+_:bnode10259 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "34 Gairbraid Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "34 Gairbraid Avenue"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G20 8YE"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G208YE> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-maryhill> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-maryhill> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "21325"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-milton> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Milton"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/milton/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10260 .
+
+_:bnode10260 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "204 Liddesdale Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "204 Liddesdale Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G22 7QR"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G227QR> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-milton> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-milton> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "5315"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-nethercraigs> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Nethercraigs"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/nethercraigs/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10261 .
+
+_:bnode10261 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "355 Corkerhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "355 Corkerhill Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G52 1RR"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G521RR> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-nethercraigs> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-nethercraigs> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "1925"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-north-woodside> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club North Woodside"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/north-woodside/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10262 .
+
+_:bnode10262 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Braid Square"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Braid Square"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G4 9YQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G49YQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-north-woodside> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-north-woodside> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "2675"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/palace-of-art> <http://www.w3.org/2000/01/rdf-schema#label> "Palace Of Art"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/bellahouston/palaceofart/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10263 .
+
+_:bnode10263 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "1121 Paisley Road West"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "1121 Paisley Road West"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G52 1EQ"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G521EQ> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/palace-of-art> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/palace-of-art> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "6230"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-petershill-park> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Petershill Park"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/petershill/Pages/default.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10264 .
+
+_:bnode10264 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "28/30 Adamswell Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "28/30 Adamswell Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 4DD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G214DD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-petershill-park> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-petershill-park> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "4202"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-pollok> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Pollok"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/pollok/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10265 .
+
+_:bnode10265 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "27 Cowglen Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "27 Cowglen Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G53 6EW"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G536EW> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-pollok> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-pollok> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "10026"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/scotstoun> <http://www.w3.org/2000/01/rdf-schema#label> "Scotstoun"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/scotstoun/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10266 .
+
+_:bnode10266 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "72 Danes Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "72 Danes Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G14 9HD"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G149HD> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/scotstoun> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/scotstoun> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "79273"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/scotstoun-stadium> <http://www.w3.org/2000/01/rdf-schema#label> "Scotstoun Stadium"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/venue-hire/venue-list/venue-information/Pages/Venue-Information.aspx?v=Scotstoun%20Stadium> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10267 .
+
+_:bnode10267 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "112 Danes Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "112 Danes Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G14 9HY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G149HY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/scotstoun-stadium> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/scotstoun-stadium> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12647"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-springburn> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Springburn"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/springburn/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10268 .
+
+_:bnode10268 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "10 Kay Street"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "10 Kay Street"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G21 1JY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G211JY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-springburn> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-springburn> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "16521"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-tollcross> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Club Tollcross"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/Tollcross%20International%20Swimming%20Centre/Pages/Glasgow-Club-Tollcross.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10269 .
+
+_:bnode10269 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "350 Wellshot Road"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "350 Wellshot Road"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G32 7QR"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G327QR> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-club-tollcross> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-club-tollcross> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "37599"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/whitehill-pool> <http://www.w3.org/2000/01/rdf-schema#label> "Whitehill Pool"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/whitehill-pool/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10270 .
+
+_:bnode10270 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "240 Onslow Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "240 Onslow Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G31 2QF"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G312QF> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/whitehill-pool> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/whitehill-pool> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9361"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/yoker> <http://www.w3.org/2000/01/rdf-schema#label> "Yoker"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/glasgow-club/Yoker/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10271 .
+
+_:bnode10271 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "2 Spiershall Terrace"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "2 Spiershall Terrace"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G14 0LN"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G140LN> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/yoker> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/yoker> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "3092"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-green-football-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Green Football Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/our-facilities/football-centres/glasgow-green-football-centre/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10272 .
+
+_:bnode10272 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Kings Drive"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "Kings Drive"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G40 1HB"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G401HB> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/glasgow-green-football-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/glasgow-green-football-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "12773"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/golf-&-outdoor-leisure> <http://www.w3.org/2000/01/rdf-schema#label> "Golf & Outdoor Leisure"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10273 .
+
+_:bnode10273 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "sites located city wide"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "sites located city wide"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/golf-&-outdoor-leisure> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/golf-&-outdoor-leisure> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "9622"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/city-wide-football> <http://www.w3.org/2000/01/rdf-schema#label> "City Wide Football"@en ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10274 .
+
+_:bnode10274 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "sites located city wide"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "sites located city wide"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/city-wide-football> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/city-wide-football> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "16007"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .
+
+<http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/toryglen-regional-football-centre> <http://www.w3.org/2000/01/rdf-schema#label> "Toryglen Regional Football Centre"@en ;
+	<http://www.w3.org/2006/vcard/nshasUrl> <http://www.glasgowlife.org.uk/sport/our-facilities/football-centres/toryglen-regional-football-centre/Pages/home.aspx> ;
+	a <http://linked.glasgow.gov.uk/def/urban-assets/Museum> , <http://linked.glasgow.gov.uk/def/urban-assets/LeisureFacility> ;
+	<http://www.w3.org/2006/vcard/nshasAddress> _:bnode10275 .
+
+_:bnode10275 a <http://www.w3.org/2006/vcard/nsAddress> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "480 Prospecthill Road, Glasgow, G42 0BY"@en ;
+	<http://www.w3.org/2006/vcard/nsstreet-address> "480 Prospecthill Road, Glasgow, G42 0BY"@en ;
+	<http://www.w3.org/2006/vcard/nslocality> "Glasgow"@en ;
+	<http://www.w3.org/2006/vcard/nscountry-name> "Scotland"@en ;
+	<http://www.w3.org/2006/vcard/nspostal-code> "G42 0BY"@en ;
+	<http://data.ordnancesurvey.co.uk/ontology/postcode/postcode> <http://data.ordnancesurvey.co.uk/id/postcodeunit/G420BY> .
+
+<http://linked.glasgow.gov.uk/data/glasgow-life-attendances/2013-9/sports-centres/toryglen-regional-football-centre> <http://linked.glasgow.gov.uk/def/refFacility> <http://linked.glasgow.gov.uk/id/urban-assets/sports-centres/toryglen-regional-football-centre> ;
+	<http://linked.glasgow.gov.uk/def/numAttendees> "34048"^^<http://www.w3.org/2001/XMLSchema#int> ;
+	<http://purl.org/linked-data/cube#dataSet> <http://linked.glasgow.gov.uk/data/glasgow-life-attendances> ;
+	<http://data.opendatascotland.org/def/statistical-dimensions/refPeriod> <http://reference.data.gov.uk/id/month/2013-09> ;
+	a <http://purl.org/linked-data/cube#Observation> .

@@ -51,7 +51,7 @@
 
 (defn slugify [string]
   (-> string
-      trim
+      st/trim
       (st/lower-case)
       (st/replace " " "-")))
 

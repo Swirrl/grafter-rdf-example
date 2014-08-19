@@ -7,12 +7,12 @@
 (defn pipeline [path]
   (-> (open-all-datasets path)
       first
-      (make-dataset ["facility-description" "facility-name" "monthly-attendence" "month" "year" "address" "town" "postcode" "website"])
+      (make-dataset ["facility-description" "facility-name" "monthly-attendance" "month" "year" "address" "town" "postcode" "website"])
       (drop-rows 1)
       (derive-column "facility-type" ["facility-description"] uriify-type)
       (derive-column "name-slug" ["facility-name"] slugify)
       (mapc {"facility-description" uriify-facility
-             "monthly-attendence" parse-attendance
+             "monthly-attendance" parse-attendance
              "month" convert-month
              "year" parse-year
              "address" address-line

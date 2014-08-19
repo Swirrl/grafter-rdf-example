@@ -1,7 +1,5 @@
 (ns glasgow-life-facilities-2.make-graph
-  (:require [clojure.string :as st]
-            [grafter.rdf :refer [graph graph-fn]]
-            [grafter.rdf.sesame :as ses]
+  (:require [grafter.rdf :refer [graph graph-fn]]
             [grafter.rdf.ontologies.rdf :refer :all]
             [grafter.rdf.ontologies.void :refer :all]
             [grafter.rdf.ontologies.dcterms :refer :all]
@@ -16,14 +14,14 @@
 (defn make-life-facilities [path]
   (let [dataset (pipeline path)]
 
-    ((graph-fn [{:strs [facility-description facility-name monthly-attendance
+    ((graph-fn [[facility-description facility-name monthly-attendance
                         year month address town postcode website facility-type
                         name-slug ref-facility-uri postcode-uri date prefix-date
-                        type-name observation-uri]}]
+                        type-name observation-uri]]
 
                (graph (base-graph "glasgow-life-facilities")
                       [ref-facility-uri
-                       [rdfs:label (rdfstr name)]
+                      [rdfs:label (rdfstr facility-name)]
                        [vcard:hasUrl website]
                        [rdf:a (urban "Museum")]
                        [rdf:a (urban "LeisureFacility")]
