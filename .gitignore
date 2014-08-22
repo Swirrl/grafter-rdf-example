@@ -1,2 +1,4 @@
 .nrepl-port
-#	target/repl-port
+target
+checkouts
+*.ttl
