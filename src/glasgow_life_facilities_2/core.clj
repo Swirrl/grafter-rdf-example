@@ -4,9 +4,10 @@
             [grafter.rdf.sesame :as ses]
             [grafter.rdf.validation :refer [has-blank? validate-triples]]
             [glasgow-life-facilities-2.filter :refer [filter-triples]]
-            [glasgow-life-facilities-2.make-graph :refer [make-life-facilities]]))
+            [glasgow-life-facilities-2.make-graph :refer [glasgow-life-facilities-template]]
+            [glasgow-life-facilities-2.pipeline :refer [pipeline]]))
 
-(defonce my-repo (-> "./tmp/grafter-sesame-store-test" ses/native-store ses/repo))
+(defonce my-repo (-> "./tmp/grafter-sesame-store-2" ses/native-store ses/repo))
 
 (defn import-life-facilities
   [quads-seq destination]
@@ -18,7 +19,11 @@
     (pr/add (ses/rdf-serializer destination) quads)))
 
 (defn -main [path output]
-  (import-life-facilities (make-life-facilities path) output)
+  (-> (open-all-datasets path)
+      first
+      pipeline
+      glasgow-life-facilities-template
+      (import-life-facilities output))
   (println path "has been grafted using Grafter 0.2.0!"))
 
 

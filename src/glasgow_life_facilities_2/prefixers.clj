@@ -11,17 +11,16 @@
             [grafter.rdf.ontologies.os :refer :all]
             [grafter.rdf.ontologies.sdmx-measure :refer :all]
             [grafter.parse :refer [lift-1 blank-m replacer mapper parse-int date-time]]
-            [grafter.js :refer [js-fn]]
             [clojure.algo.monads :refer [m-chain m-bind m-result with-monad identity-m]]))
+
+;;; URI
 
 (def base-uri (prefixer "http://linked.glasgow.gov.uk"))
 (def base-graph (prefixer (base-uri "/graph/")))
-
 (def glasgow (prefixer "http://linked.glasgow.gov.uk/def/"))
 (def urban (prefixer "http://linked.glasgow.gov.uk/def/urban-assets/"))
 (def urban-id (prefixer "http://linked.glasgow.gov.uk/id/urban-assets/"))
 (def ont-graph "http://linked.glasgow.gov.uk/graph/vocab/urban-assets/ontology")
-
 (def attendance (prefixer "http://linked.glasgow.gov.uk/data/facility_attendance"))
 (def urban:ontology (urban "ontology"))
 (def sd (prefixer "http://data.opendatascotland.org/def/statistical-dimensions/"))
@@ -33,21 +32,13 @@
                       "Music" (urban "MusicVenue")
                       "Sport Centres" (urban "SportsCentre")})
 
-(defn uriify-refFacility [type name]
+(def prefix-facility (prefixer "http://linked.glasgow.gov.uk/data/glasgow-life-attendances/"))
+
+(defn uriify-ref-facility [type name]
   (str (urban-id type) "/" name))
 
-(defn slug-combine [& args]
-  (apply str (interpose "/" args)))
 
-(def uriify-type {"Museums" "museums"
-                  "Arts" "arts-centres"
-                  "Community Facility" "community-facilities"
-                  "Libraries" "libraries"
-                  "Music" "music-venues"
-                  "Sport Centres" "sports-centres"})
-
-(defn date-slug [date]
-  (str (.getYear date) "-" (.getMonthOfYear date) "/"))
+;;; Slugify
 
 (defn slugify [string]
   (-> string
@@ -55,13 +46,21 @@
       (st/lower-case)
       (st/replace " " "-")))
 
-(def slugify-facility
-  (js-fn "function(name) {
-              var lower = name.toLowerCase();
-              return lower.replace(/\\ /g, '-');
-         }"))
+(defn slug-combine [& args]
+  (apply str (interpose "/" args)))
 
-(def prefix-facility (prefixer "http://linked.glasgow.gov.uk/data/glasgow-life-attendances/"))
+(defn date-slug [date]
+  (str (.getYear date) "-" (.getMonthOfYear date) "/"))
+
+
+;;; Data cleaning
+
+(def clean-type {"Museums" "museums"
+                  "Arts" "arts-centres"
+                  "Community Facility" "community-facilities"
+                  "Libraries" "libraries"
+                  "Music" "music-venues"
+                  "Sport Centres" "sports-centres"})
 
 (with-monad blank-m
   (def rdfstr                    (lift-1 (fn [str] (s str :en))))

@@ -4,12 +4,11 @@
             [grafter.parse :refer [date-time]]
             [glasgow-life-facilities-2.prefixers :refer :all]))
 
-(defn pipeline [path]
-  (-> (open-all-datasets path)
-      first
+(defn pipeline [dataset]
+  (-> dataset
       (make-dataset ["facility-description" "facility-name" "monthly-attendance" "month" "year" "address" "town" "postcode" "website"])
       (drop-rows 1)
-      (derive-column "facility-type" ["facility-description"] uriify-type)
+      (derive-column "facility-type" ["facility-description"] clean-type)
       (derive-column "name-slug" ["facility-name"] slugify)
       (mapc {"facility-description" uriify-facility
              "monthly-attendance" parse-attendance
@@ -19,7 +18,7 @@
              "town" city
              "postcode" post-code
              "website" url})
-      (derive-column "ref-facility-uri" ["facility-type" "name-slug"] uriify-refFacility)
+      (derive-column "ref-facility-uri" ["facility-type" "name-slug"] uriify-ref-facility)
       (derive-column "postcode-uri" ["postcode"] uriify-pcode)
       (swap "month" "year")
       (derive-column "date" ["year" "month"] date-time)
