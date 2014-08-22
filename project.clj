@@ -7,7 +7,4 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [grafter "0.2.0-SNAPSHOT"]]
   :main glasgow-life-facilities-2.core
-  :plugins [[s3-wagon-private "1.1.2"]]
-  :repositories [["swirrl-private" {:url "s3p://leiningen-private-repo/releases/"
-                                    :username :env
-                                    :passphrase :env}]])
+  :plugins [[s3-wagon-private "1.1.2"]])
