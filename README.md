@@ -1,4 +1,4 @@
-# glasgow-life-facilities-2
+# Grafter Glasgow Life Facilities RDF Example
 
 Example of RDFization using Grafter 0.2.0 on the csv file Glasgow Life Facilities.
 
@@ -8,7 +8,7 @@ You can learn more about this example in [the tutorial we wrote about it](http:/
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Swirrl IT Ltd.
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
