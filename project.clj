@@ -7,5 +7,4 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [grafter "0.2.0-SNAPSHOT"]
                  [org.slf4j/slf4j-jdk14 "1.7.5"]]
-  :main glasgow-life-facilities-2.core
-  :plugins [[s3-wagon-private "1.1.2"]])
+  :main glasgow-life-facilities-2.core)
