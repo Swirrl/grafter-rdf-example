@@ -7,8 +7,6 @@
             [glasgow-life-facilities-2.make-graph :refer [glasgow-life-facilities-template]]
             [glasgow-life-facilities-2.pipeline :refer [pipeline]]))
 
-(defonce my-repo (-> "./tmp/grafter-sesame-store-2" ses/native-store ses/repo))
-
 (defn import-life-facilities
   [quads-seq destination]
   (let [now (java.util.Date.)
